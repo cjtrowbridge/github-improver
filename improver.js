@@ -2,7 +2,6 @@ var Containers = document.getElementsByClassName("container new-discussion-timel
 
 for(var i=0, len=Containers.length; i<len; i++)
 {
-  
   if(
     (window.location.href.indexOf("/edit/") > -1)||
     (window.location.href.indexOf("/new/") > -1)
