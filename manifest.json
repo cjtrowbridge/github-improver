@@ -1,0 +1,12 @@
+{
+"name":"Github Improver",
+"description":"https://github.com/cjtrowbridge/github-improver/",
+"version":"1",
+"manifest_version":1,
+"content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "js": ["improver.js"]
+    }
+  ]
+}
