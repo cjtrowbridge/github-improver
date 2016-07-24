@@ -1,7 +1,7 @@
 {
 "name":"Github Improver",
 "description":"https://github.com/cjtrowbridge/github-improver/",
-"version":"1",
+"version":"1.0",
 "manifest_version":2,
 "content_scripts": [
     {
