@@ -3,6 +3,7 @@
 "description":"https://github.com/cjtrowbridge/github-improver/",
 "version":"1.0",
 "manifest_version":2,
+"icons": {"128": "icon128.png" },
 "content_scripts": [
     {
       "matches": ["https://github.com/*"],
