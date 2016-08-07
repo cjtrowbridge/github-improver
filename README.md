@@ -1,3 +1,4 @@
+![GitHub Improver](https://github.com/cjtrowbridge/github-improver/raw/master/icon.png "GitHub Improver")
 # github-improver
 This is a chrome extension which improves the functionality of the github editor by making the editing area larger.
 ##Installation
