@@ -2,7 +2,7 @@
 # github-improver
 This is a chrome extension which improves the functionality of the github editor by making the editing area larger.
 ## Installation From Chrome Web Store
-(Click Here)[https://chrome.google.com/webstore/detail/github-improver/jahfeohjmjdmdcbioaoaebmlhnofpjib?hl=en-US] to go to the chrome web store and install the extension.
+[Click Here](https://chrome.google.com/webstore/detail/github-improver/jahfeohjmjdmdcbioaoaebmlhnofpjib?hl=en-US) to go to the chrome web store and install the extension.
 
 ##Installation From Github
 1. Download the zip file of this repository and unzip it  
